@@ -1,6 +1,4 @@
 # MLOPS
 
-this is impoertant
-
-MLOps maturity model
-https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/mlops-maturity-model
+HW-1 added.
+week_1 >> homework1.ipynb
